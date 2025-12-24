@@ -5,7 +5,7 @@
 **AI Architect & Product Builder**  
 Building decision-making AI systems from noisy real-world data
 
-[Portfolio](https://scanovich.ai) • [Telegram](https://t.me/ScanovichAI) • [Email](mailto:iamfuyoh@gmail.com)
+[Portfolio](https://scanovich.ai) • [Telegram](https://t.me/ScanovichAI) • [Email](mailto:iamfuyoh@gmail.com) • [🇷🇺 Русская версия](#русская-версия)
 
 </div>
 
@@ -286,6 +286,7 @@ My engineering principles translate directly to business value:
 
 ---
 
+<a name="русская-версия"></a>
 <details>
 <summary><b>🇷🇺 Русская версия</b></summary>
 
