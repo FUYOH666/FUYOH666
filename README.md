@@ -278,9 +278,13 @@ My engineering principles translate directly to business value:
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FUYOH666&show_icons=true&theme=default&hide_border=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FUYOH666&layout=compact&theme=default&hide_border=true&hide_title=true)
 
 </div>
 
