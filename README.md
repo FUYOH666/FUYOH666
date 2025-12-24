@@ -278,27 +278,6 @@ My engineering principles translate directly to business value:
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/FUYOH666">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FUYOH666&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUYOH666&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</a>
-
-<a href="https://github.com/FUYOH666">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=FUYOH666&theme=default&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<a href="https://github.com/FUYOH666">
-  <img src="https://github-profile-trophy.vercel.app/?username=FUYOH666&theme=flat&no-frame=true&column=7" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
 <a name="русская-версия"></a>
 <details>
 <summary><b>🇷🇺 Русская версия</b></summary>
