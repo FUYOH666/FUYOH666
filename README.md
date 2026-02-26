@@ -40,12 +40,12 @@ I architect and build AI systems that transform business challenges into measura
 
 ### Healthcare & Medical AI
 
-**[Scanovich.ai - MRI Radiology Assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant)**
+**[Scanovich.ai - MRI + CT Radiology Assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant)**
 
-Local AI assistant for radiologists in MRI centers. Automates medical report generation, reduces diagnostic errors through AI-assisted segmentation, and ensures patient data privacy through local deployment.
+Multi-agent AI assistant for radiologists: region-aware model routing (TotalSegmentator, MedSAM2), automatic MRI and CT segmentation, full DICOM support. Local-first deployment — data never leaves your infrastructure.
 
-**Tech:** Python, MedSAM2, DICOM, Medical AI  
-**Status:** MVP ready, seeking medical partners & investors
+**Tech:** Python, MedSAM2, TotalSegmentator, FastAPI, DICOM, PyDicom  
+**Status:** Open-source, open to custom development & partnerships
 
 ---
 
@@ -307,12 +307,12 @@ My engineering principles translate directly to business value:
 
 ### Медицинский ИИ
 
-**[Scanovich.ai - MRI Radiology Assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant)**
+**[Scanovich.ai - ИИ-ассистент для радиологов (MRI + CT)](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant)**
 
-Локальный AI-ассистент для радиологов в МРТ-центрах. Автоматизирует генерацию медицинских отчетов, снижает диагностические ошибки через AI-ассистированную сегментацию и обеспечивает конфиденциальность данных пациентов через локальное развертывание.
+Мультиагентный ИИ-ассистент для радиологов: маршрутизация моделей по анатомической области (TotalSegmentator, MedSAM2), автоматическая сегментация МРТ и КТ, полная поддержка DICOM. Локальное развёртывание — данные не покидают инфраструктуру.
 
-**Tech:** Python, MedSAM2, DICOM, Medical AI  
-**Status:** MVP ready, seeking medical partners & investors
+**Tech:** Python, MedSAM2, TotalSegmentator, FastAPI, DICOM, PyDicom  
+**Status:** Open-source, открыт к заказам на разработку и партнёрству
 
 ### Бизнес-аналитика и автоматизация
 
