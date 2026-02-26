@@ -1,20 +1,20 @@
 # Aleksandr Mordvinov
 
 **AI Architect & Product Builder**  
-Building production AI systems from real-world data. 12+ years. Local-first, on-premise, data sovereignty.
+Building production AI systems from real-world data. Local-first, on-premise, data sovereignty.
 
 [Portfolio](https://scanovich.ai) · [Telegram](https://t.me/ScanovichAI) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Email](mailto:iamfuyoh@gmail.com)
 
 ---
 
-## Results
+## What I Deliver
 
-| What | Outcome |
-|------|--------|
-| MVP | 24 hours |
-| Call analytics | $51K/year saved, 100% coverage |
-| Customs automation | 8h → 15 min, 95%+ accuracy |
-| AI sales agents | 5 languages, 24/7, production |
+| Capability | Approach |
+|------------|----------|
+| **Speed** | Concept → working prototype in 24h |
+| **Automation** | Full coverage vs. manual sampling, end-to-end pipelines |
+| **Accuracy** | High-precision extraction, classification, validation |
+| **Scale** | Multilingual, 24/7, production-ready deployment |
 
 ---
 
@@ -37,6 +37,6 @@ Building production AI systems from real-world data. 12+ years. Local-first, on-
 **Investors** — Healthcare AI, B2B automation, seed/Series A  
 **Partnerships** — MedTech, clinics, call centers, customs brokers  
 
-*Results above include private/commercial projects (call analysis, customs automation, AI sales agents). Contact for details.*
+*Commercial work: call analysis, customs automation, AI sales agents. Case studies on request.*
 
 **Contact:** [@ScanovichAI](https://t.me/ScanovichAI) · iamfuyoh@gmail.com
