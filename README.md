@@ -37,6 +37,16 @@ Building production AI systems from real-world data. Local-first, on-premise, da
 **Investors** — Healthcare AI, B2B automation, seed/Series A  
 **Partnerships** — MedTech, clinics, call centers, customs brokers  
 
-*Commercial work: call analysis, customs automation, AI sales agents. Case studies on request.*
+---
+
+## Commercial Work
+
+**Call centers** — Manual review covers 1–5% of calls. Built system for 100% automated analysis, entity extraction, script compliance. Production.
+
+**Customs (EAEU)** — Brokers spend 6–8h per declaration. Built OCR + RAG pipeline: invoices → TN VED codes → XSD-valid XML. 8h → 15 min.
+
+**Sales AI** — Multilingual agents (RU, EN, TH, ZH, ES), RAG knowledge base, voice messages. 24/7, deployed in production.
+
+---
 
 **Contact:** [@ScanovichAI](https://t.me/ScanovichAI) · iamfuyoh@gmail.com
