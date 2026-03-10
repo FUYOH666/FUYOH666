@@ -1,51 +1,56 @@
 # Aleksandr Mordvinov
 
-**AI Architect & Product Builder**  
-Building production AI systems from real-world data. Local-first, on-premise, data sovereignty.
+**AI Architect · Human-in-the-Loop Systems · Production ML**
 
-[Portfolio](https://scanovich.ai) · [Telegram](https://t.me/ScanovichAI) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Email](mailto:iamfuyoh@gmail.com)
+I build production AI systems for B2B and enterprise—expert domains where errors are costly. Not feature add-ons: capitalizable infrastructure. Eliminate routine, capture proprietary data, train domain models, scale as assets.
 
----
+I don't hunt for one big bet. I'm a generator of applied AI architectures—ideas aren't a finite resource.
 
-## What I Deliver
-
-| Capability | Approach |
-|------------|----------|
-| **Speed** | Concept → working prototype in 24h |
-| **Automation** | Full coverage vs. manual sampling, end-to-end pipelines |
-| **Accuracy** | High-precision extraction, classification, validation |
-| **Scale** | Multilingual, 24/7, production-ready deployment |
+[Portfolio](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov) · [Telegram](https://t.me/ScanovichAI) · [Email](mailto:iamfuyoh@gmail.com)
 
 ---
 
-## Open Source (2026)
+## Approach
 
-| Project | What |
-|---------|------|
-| [Scanovich.ai](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | MRI/CT radiology assistant, region-aware routing |
-| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Call analytics, 100% local, VoIP → dashboards |
-| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Privacy-first ASR, multi-model, offline |
-| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Voice AI platform, streaming ASR/TTS |
-| [linux-defender](https://github.com/FUYOH666/linux-defender) | Linux security: ClamAV, Fail2ban, Lynis, AIDE, Trivy |
-| [Cleaner-OS](https://github.com/FUYOH666/Cleaner-OS) | ML cache, Python deps, security audit |
+Remove manual routine. Keep human-in-the-loop validation. Turn chaotic workflows into reproducible pipelines.
+
+Full coverage over sampling. End-to-end automation. Production-ready, multilingual deployment.
+
+---
+
+## Domains
+
+| Domain | Delivered | Outcome |
+|--------|-----------|---------|
+| **AI Agents** | Multilingual (RU, EN, TH, ZH, ES), RAG, voice, 24/7 | Sales, real estate, support—production |
+| **Marketplaces** | Ozon, Yandex.Market—P&L, turnover, margin, returns | Seller analytics, alerts |
+| **Customs (EAEU)** | OCR + RAG → TN VED codes → XSD-valid XML | 8h → 15 min per declaration |
+| **Real Estate** | WhatsApp, Telegram, LINE—RAG, floor plans, tenant isolation | 24/7 agents, booking |
+| **Call Centers** | ASR + LLM pipeline, entity extraction, script compliance | 100% coverage, $51K/yr savings |
+
+---
+
+## Open Source
+
+| Project | Description |
+|---------|-------------|
+| [Plague-InGG](https://github.com/FUYOH666/Plague-InGG) | Self-evolving AI agent, RAG, 32 tools, local LLMs |
+| [deer-flow](https://github.com/FUYOH666/deer-flow) | SuperAgent harness: research, code, create—sandboxes, memories, subagents |
+| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Call analytics: VoIP → Whisper → dashboards |
+| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline ASR, multi-model, Apple Silicon |
+| [Scanovich.ai-MRI](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | Radiology assistant (MRI/CT), region-aware *(archived)* |
+| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Voice AI platform, streaming ASR/TTS *(archived)* |
+| [DT-xml](https://github.com/FUYOH666/DT-xml) | Semantic search for customs declarations (EAEU) *(archived)* |
+| [linux-defender](https://github.com/FUYOH666/linux-defender) | Linux security: ClamAV, Fail2ban, Lynis, AIDE |
+| [Cleaner-OS](https://github.com/FUYOH666/Cleaner-OS) | ML cache audit, Python deps, security |
 
 ---
 
 ## Open to
 
-**Enterprise** — Custom AI, PACS integration, call analytics, voice platforms  
+**Enterprise** — Custom AI, PACS, call analytics, voice platforms  
 **Investors** — Healthcare AI, B2B automation, seed/Series A  
-**Partnerships** — MedTech, clinics, call centers, customs brokers  
-
----
-
-## Commercial Work
-
-**Call centers** — Manual review covers 1–5% of calls. Built system for 100% automated analysis, entity extraction, script compliance. Production.
-
-**Customs (EAEU)** — Brokers spend 6–8h per declaration. Built OCR + RAG pipeline: invoices → TN VED codes → XSD-valid XML. 8h → 15 min.
-
-**Sales AI** — Multilingual agents (RU, EN, TH, ZH, ES), RAG knowledge base, voice messages. 24/7, deployed in production.
+**Partnerships** — MedTech, clinics, call centers, customs brokers
 
 ---
 
