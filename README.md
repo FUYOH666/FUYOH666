@@ -1,57 +1,82 @@
-# Aleksandr Mordvinov
+# Your company's knowledge is buried in messy docs, scans, and calls. I turn it into an AI that actually works.
 
-**AI Architect · Human-in-the-Loop Systems · Production ML**
-
-I build production AI systems for B2B and enterprise—expert domains where errors are costly. **Local-first, on-premise—no cloud APIs, no data lock-in.** Not feature add-ons: capitalizable infrastructure. Eliminate routine, capture proprietary data, train domain models, scale as assets.
-
-I don't hunt for one big bet. I'm a generator of applied AI architectures—ideas aren't a finite resource.
-
-[Portfolio](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov) · [Telegram](https://t.me/ScanovichAI) · [Email](mailto:iamfuyoh@gmail.com)
+**Aleksandr Mordvinov** — AI Solutions Architect
 
 ---
 
-## Approach
+## What I Do
 
-Remove manual routine. Keep human-in-the-loop validation. Turn chaotic workflows into reproducible pipelines.
+I build **custom AI knowledge systems** for businesses. Not chatbot wrappers — production infrastructure that reads your ugliest data and gives your team instant, accurate answers.
 
-Full coverage over sampling. End-to-end automation. Production-ready, multilingual deployment. Local inference—Whisper, vLLM, llama.cpp—your data stays on your infrastructure.
-
----
-
-## Domains
-
-| Domain | Delivered | Outcome |
-|--------|-----------|---------|
-| **AI Agents** | Multilingual (RU, EN, TH, ZH, ES), RAG, voice, 24/7 | Sales, real estate, support—production |
-| **Marketplaces** | Ozon, Yandex.Market—P&L, turnover, margin, returns | Seller analytics, alerts |
-| **Customs (EAEU)** | OCR + RAG → TN VED codes → XSD-valid XML | 8h → 15 min per declaration |
-| **Real Estate** | WhatsApp, Telegram, LINE—RAG, floor plans, tenant isolation | 24/7 agents, booking |
-| **Call Centers** | ASR + LLM pipeline, entity extraction, script compliance | 100% coverage, $51K/yr savings |
+**One project. Fixed price. Working system in 2 weeks.**
 
 ---
 
-## Open Source
+## The Problem I Solve
 
-| Project | Description |
-|---------|-------------|
-| [Plague-InGG](https://github.com/FUYOH666/Plague-InGG) | Self-evolving AI agent, RAG, 32 tools, local LLMs |
-| [deer-flow](https://github.com/FUYOH666/deer-flow) | SuperAgent harness: research, code, create—sandboxes, memories, subagents |
-| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Call analytics: VoIP → Whisper → dashboards, 100% local |
-| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline ASR, multi-model, Apple Silicon |
-| [Scanovich.ai-MRI](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | Radiology assistant (MRI/CT), region-aware *(archived)* |
-| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Voice AI platform, streaming ASR/TTS *(archived)* |
-| [DT-xml](https://github.com/FUYOH666/DT-xml) | Semantic search for customs declarations (EAEU) *(archived)* |
-| [linux-defender](https://github.com/FUYOH666/linux-defender) | Linux security: ClamAV, Fail2ban, Lynis, AIDE |
-| [Cleaner-OS](https://github.com/FUYOH666/Cleaner-OS) | ML cache audit, Python deps, security |
+Your company has years of knowledge trapped in:
+- Scanned documents (blurry, multilingual, handwritten)
+- Call recordings nobody listens to
+- Spreadsheets, PDFs, manuals scattered across drives
+- Employee heads (and they're leaving)
+
+You've tried ChatGPT. It hallucinates. You've talked to AI vendors. They want 6 months and $100K.
+
+**I do it in 2 weeks for $4,000.**
 
 ---
 
-## Open to
+## How It Works
 
-**Enterprise** — Custom AI, PACS, call analytics, voice platforms  
-**Investors** — Healthcare AI, B2B automation, seed/Series A  
-**Partnerships** — MedTech, clinics, call centers, customs brokers
+**Week 1:** I take your worst data — scans, audio, messy docs — and transform it into clean, structured, machine-readable text. OCR, ASR, multilingual extraction. The stuff nobody wants to do.
+
+**Week 2:** I build a RAG system (Retrieval-Augmented Generation) on your data. Your team asks questions in plain language → gets accurate answers with source references. Deployed on your infrastructure or mine. Your data never leaves your control.
+
+**What you get:** A working AI knowledge base your team can use on Day 15. Not a prototype. Not a demo. A tool.
 
 ---
 
-**Contact:** [@ScanovichAI](https://t.me/ScanovichAI) · iamfuyoh@gmail.com
+## Proof It Works
+
+| Client Problem | What I Built | Result |
+|---|---|---|
+| Customs broker drowning in paperwork | OCR + RAG pipeline for multilingual trade documents | **8 hours → 15 minutes** per declaration |
+| Call center missing quality issues | ASR + LLM analysis of 100% of calls | **$51K/year saved**, full coverage vs 3% sampling |
+| Marketplace sellers flying blind | AI analytics for Ozon & Yandex Market | Real-time P&L, margin alerts, competitor tracking |
+| Real estate agency losing leads | Multilingual AI agents (WhatsApp, Telegram, LINE) | **24/7 response**, automated booking |
+
+---
+
+## Pricing
+
+| Package | What's Included | Price |
+|---|---|---|
+| **Knowledge Base** | Data extraction + RAG system + deployment | **$4,000** |
+| **Voice Intelligence** | Call transcription + AI analysis + dashboards | **$5,000** |
+| **AI Agent** | Custom chatbot on your data, any messenger | **$3,000** |
+| **Full Stack** | All of the above, integrated | **Let's talk** |
+
+*All prices are project-based. No hourly billing. No surprises.*
+
+---
+
+## Tech (for the engineers)
+
+Local-first: Whisper, vLLM, llama.cpp — no cloud API dependency, no data lock-in.
+Stack: Python, FastAPI, Qdrant, LangChain, Docker.
+Languages: Russian, English, Thai, Chinese, Spanish.
+
+**Open source projects** — see my repositories below.
+
+---
+
+## Next Step
+
+Tell me what data is killing your team's time. I'll tell you if I can help — and how fast.
+
+**Email:** iamfuyoh@gmail.com
+**Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)
+**LinkedIn:** [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov)
+**Portfolio:** [scanovich.ai](https://scanovich.ai)
+
+*Based in Bangkok, Thailand. Working with clients globally.*
