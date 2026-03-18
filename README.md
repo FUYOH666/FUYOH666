@@ -8,7 +8,7 @@
 
 I build **custom AI knowledge systems** for businesses. Not chatbot wrappers — production infrastructure that reads your ugliest data and gives your team instant, accurate answers.
 
-**One project. Fixed price. Working system in 2 weeks.**
+**One project. Working system in 2 weeks. Custom scope.**
 
 ---
 
@@ -22,7 +22,7 @@ Your company has years of knowledge trapped in:
 
 You've tried ChatGPT. It hallucinates. You've talked to AI vendors. They want 6 months and $100K.
 
-**I do it in 2 weeks for $4,000.**
+**I do it in 2 weeks.**
 
 ---
 
@@ -47,16 +47,9 @@ You've tried ChatGPT. It hallucinates. You've talked to AI vendors. They want 6 
 
 ---
 
-## Pricing
+## Next Step
 
-| Package | What's Included | Price |
-|---|---|---|
-| **Knowledge Base** | Data extraction + RAG system + deployment | **$4,000** |
-| **Voice Intelligence** | Call transcription + AI analysis + dashboards | **$5,000** |
-| **AI Agent** | Custom chatbot on your data, any messenger | **$3,000** |
-| **Full Stack** | All of the above, integrated | **Let's talk** |
-
-*All prices are project-based. No hourly billing. No surprises.*
+**Free consultation** — tell me your data and goals, I'll tell you if it fits and how fast we can move.
 
 ---
 
@@ -69,10 +62,6 @@ Languages: Russian, English, Thai, Chinese, Spanish.
 **Open source projects** — see my repositories below.
 
 ---
-
-## Next Step
-
-Tell me what data is killing your team's time. I'll tell you if I can help — and how fast.
 
 **Email:** iamfuyoh@gmail.com
 **Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)
