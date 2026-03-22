@@ -1,71 +1,108 @@
-# Your company's knowledge is buried in messy docs, scans, and calls. I turn it into an AI that actually works.
+# Your company's knowledge is buried in messy docs, scans, and calls. I turn it into AI that actually works.
 
-**Aleksandr Mordvinov** — AI Solutions Architect
+**Aleksandr Mordvinov** — AI Solutions Architect · product-grade pipelines, not chat wrappers
+
+*Open to senior / lead roles in AI architecture & engineering — same stack mindset as client delivery.*
 
 ---
 
 ## What I Do
 
-I build **custom AI knowledge systems** for businesses. Not chatbot wrappers — production infrastructure that reads your ugliest data and gives your team instant, accurate answers.
+I build **custom AI knowledge and automation systems** for businesses: ingestion from messy sources, retrieval-grounded answers, agents where they earn their keep, and outputs that survive real operations (validation, observability, data residency).
 
-**One project. Working system in 2 weeks. Custom scope.**
+**One project. Working system in ~2 weeks. Custom scope.**
+
+---
+
+## Public work
+
+These repositories are **public**; they are a subset of what I ship. More on [repositories](https://github.com/FUYOH666?tab=repositories&type=public).
+
+| Repository | What it is |
+|------------|------------|
+| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Multi-channel agents, catalog/media ingestion, RAG-style grounding, multi-tenant ops hooks |
+| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Local-first call analytics: recordings → transcription → structured scoring & reporting |
+| [deer-flow](https://github.com/FUYOH666/deer-flow) | Long-running agent harness (research / coding / creative) — fork tuned for local inference & languages |
+| [DT-xml](https://github.com/FUYOH666/DT-xml) | Semantic search over regulated trade-declaration-style data (EAEU-oriented tooling) |
+| [linux-defender](https://github.com/FUYOH666/linux-defender) | Unified Linux security hygiene CLI (audit, scheduling, notifications) |
+| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agent stack: streaming speech in/out, dialog control |
+
+---
+
+## Private & client work
+
+Much of my **production** and **client** work lives in **private GitHub repositories** or on-prem — names, code, and deployment specifics are not public.
+
+Typical **private** contours (abstract — no client or repo names here):
+
+- **Regulated document flows** — logistics / trade: unstructured packages → structured extraction → retrieval-assisted classification → **schema-bound** outputs (e.g. XSD-shaped XML) with confidence and checks  
+- **Marketplace operations** — API-backed analytics, reconciliation-style reporting, assistant/chat over seller data  
+- **Speech** — ASR-oriented services and bots (voice in, structured or normalized text out)  
+- **Inference & search infra** — embedding + reranking **microservices**, local or otherwise **controlled** LLM serving configs  
+- **Agents & glue** — unified agent experiments, internal tooling, web properties
+
+**Finer stack, prompts, and architecture** — happy to discuss in hiring conversations or **under NDA** for commercial partners.
+
+---
+
+## Local R&D
+
+Alongside GitHub, I keep **active product and research branches locally** (orchestration, retrieval, voice paths, domain-specific calculators). Pieces graduate to public repos when they are stable and safe to share.
 
 ---
 
 ## The Problem I Solve
 
-Your company has years of knowledge trapped in:
-- Scanned documents (blurry, multilingual, handwritten)
-- Call recordings nobody listens to
-- Spreadsheets, PDFs, manuals scattered across drives
-- Employee heads (and they're leaving)
-
-You've tried ChatGPT. It hallucinates. You've talked to AI vendors. They want 6 months and $100K.
-
-**I do it in 2 weeks.**
+Knowledge stuck in scans, calls, spreadsheets, and PDFs; teams outgrow generic chat tools; vendors quote long timelines. I focus on **pipelines you can run**, **data you control**, and **answers you can trace**.
 
 ---
 
-## How It Works
+## How It Works (client delivery)
 
-**Week 1:** I take your worst data — scans, audio, messy docs — and transform it into clean, structured, machine-readable text. OCR, ASR, multilingual extraction. The stuff nobody wants to do.
+**Phase 1 — Make data machine-usable:** document and speech pipelines, multilingual and messy inputs, normalization to structured text or fields.
 
-**Week 2:** I build a RAG system (Retrieval-Augmented Generation) on your data. Your team asks questions in plain language → gets accurate answers with source references. Deployed on your infrastructure or mine. Your data never leaves your control.
+**Phase 2 — Make answers reliable:** retrieval-augmented generation on **your** corpus, citations where it matters, deployment on **your** infra or an agreed host.
 
-**What you get:** A working AI knowledge base your team can use on Day 15. Not a prototype. Not a demo. A tool.
+**Outcome:** Something the team can use in production — not a slide deck.
 
 ---
 
 ## Proof It Works
 
-| Client Problem | What I Built | Result |
-|---|---|---|
-| Customs broker drowning in paperwork | OCR + RAG pipeline for multilingual trade documents | **8 hours → 15 minutes** per declaration |
-| Call center missing quality issues | ASR + LLM analysis of 100% of calls | **$51K/year saved**, full coverage vs 3% sampling |
-| Marketplace sellers flying blind | AI analytics for Ozon & Yandex Market | Real-time P&L, margin alerts, competitor tracking |
-| Real estate agency losing leads | Multilingual AI agents (WhatsApp, Telegram, LINE) | **24/7 response**, automated booking |
+| Problem space | What I built | Result |
+|---------------|--------------|--------|
+| Logistics / regulated paperwork | Document + retrieval pipeline for trade declarations | **8h → ~15min** per declaration (representative engagement) |
+| Call-center QA | Full-coverage call analysis vs manual sampling | **~$51K/year** value vs partial sampling (representative engagement) |
+| Marketplace sellers | Analytics & alerts on marketplace APIs | Real-time P&L / margin visibility |
+| Long-cycle sales (e.g. property) | Multilingual agents (messengers) + handoff | **24/7** first response, grounded answers |
 
 ---
 
 ## Next Step
 
-**Free consultation** — tell me your data and goals, I'll tell you if it fits and how fast we can move.
+**Free consultation** — describe your data and constraint (latency, residency, channels); I’ll say whether it fits and how fast we can move.
 
 ---
 
-## Tech (for the engineers)
+## Tech (for engineers)
 
-Local-first: Whisper, vLLM, llama.cpp — no cloud API dependency, no data lock-in.
-Stack: Python, FastAPI, Qdrant, LangChain, Docker.
-Languages: Russian, English, Thai, Chinese, Spanish.
+**Principles:** Python-first services, **FastAPI** where it fits, **containers**, **vector / hybrid search**, **structured outputs** and **schema checks** where stakes are high, **local or controlled inference** when data must not leave your boundary.
 
-**Open source projects** — see my repositories below.
+Languages I work in professionally: **Russian, English, Thai**; also **Chinese, Spanish** in client contexts.
 
 ---
 
-**Email:** iamfuyoh@gmail.com
-**Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)
-**LinkedIn:** [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov)
+**Email:** iamfuyoh@gmail.com  
+**Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)  
+**LinkedIn:** [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov)  
 **Portfolio:** [scanovich.ai](https://scanovich.ai)
 
 *Based in Bangkok, Thailand. Working with clients globally.*
+
+---
+
+### Pinning repos (GitHub UI)
+
+GitHub does not expose profile pin order in this repo. After pushing, pin the same six as in **Public work** (or your preferred subset) under **Profile → Customize your pins** so the list matches this README.
+
+**Optional:** Settings → Profile → **Include private contributions on your profile** — shows activity heat without revealing private repo names.
