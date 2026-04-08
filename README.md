@@ -1,86 +1,62 @@
 # Aleksandr Mordvinov
 
-**AI Solutions Architect** — I turn messy company knowledge (docs, scans, calls, APIs) into **production-grade AI**: ingestion and retrieval you can trust, agents where they earn their keep, and outputs that hold up under real ops—validation, observability, and data residency included.
+**Applied AI builder** — I build production systems for documents, voice, retrieval, and agentic workflows.
 
-I work in two modes that share the same bar: **focused delivery** (typically a working system in about **two weeks** for a well-scoped problem) and **senior / lead** roles in AI architecture & engineering. If you are hiring or need a build, the conversation starts the same way: constraints first, then architecture.
+My work sits between product and infrastructure: Python/FastAPI services, LLM/RAG systems, ASR/TTS pipelines, multi-channel agents, and local-first or controlled deployment when privacy, latency, or data residency matter. I focus on messy, high-friction operational data: documents, scans, calls, internal knowledge, and multi-step business workflows.
 
----
+## Focus
 
-## How I deliver
+- Document intelligence for regulated and operations-heavy workflows
+- Voice AI, call analytics, and speech interfaces
+- Retrieval-grounded systems with structured outputs
+- Private / on-prem AI stacks: serving, embeddings, reranking, and observability
 
-**Phase 1 — Make data machine-usable:** document and speech pipelines, multilingual and messy inputs, normalization to structured text or fields.
+## Representative work
 
-**Phase 2 — Make answers reliable:** retrieval-augmented generation on **your** corpus, citations where it matters, deployment on **your** infrastructure or an agreed host.
+- **Logistics / regulated paperwork** — extraction, retrieval, assisted classification, and schema-bound outputs for document-heavy workflows
+- **Call-center QA and operations** — local-first transcription, scoring, and reporting pipelines
+- **Long-cycle sales** — multilingual, multi-channel agents with grounding, routing, and human handoff
+- **Private AI infrastructure** — deployable inference, embedding/reranking services, and production-minded system design
 
-**Outcome:** Something a team can run in production—not a slide deck.
+## Selected public repositories
 
----
+| Repository | What it shows |
+|------------|---------------|
+| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline, cross-platform voice-to-text with support for local ASR workflows |
+| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Local-first call analytics: recordings -> transcription -> structured scoring and reporting |
+| [Services-BGE](https://github.com/FUYOH666/Services-BGE) | Embedding and reranking microservices for retrieval and hybrid search |
+| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Multi-channel AI agents with grounding, tenant isolation, and operational hooks |
+| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agent stack with streaming speech in/out and dialog control |
+| [linux-defender](https://github.com/FUYOH666/linux-defender) | Security-aware Linux operations tooling: audit, scheduling, and monitoring |
 
-## Outcomes (representative engagements)
+More public repos: [github.com/FUYOH666?tab=repositories&type=public](https://github.com/FUYOH666?tab=repositories&type=public)
 
-| Problem space | What I built | Result |
-|---------------|--------------|--------|
-| Logistics / regulated paperwork | Document + retrieval pipeline for trade declarations | **~8h → ~15min** per declaration |
-| Call-center QA | Full-coverage call analysis vs manual sampling | **~$51K/year** value vs partial sampling |
-| Marketplace sellers | Analytics & alerts on marketplace APIs | Real-time P&L / margin visibility |
-| Long-cycle sales (e.g. property) | Multilingual agents (messengers) + handoff | **24/7** first response, grounded answers |
+## Private work themes
 
----
+A substantial part of my production work lives in private repositories or on-prem deployments. Common themes:
+- regulated document workflows
+- marketplace analytics and operator tooling
+- speech services and bots
+- controlled inference and retrieval infrastructure
+- internal agent systems and orchestration
 
-## Public repositories
+## How I build
 
-A curated slice of what I ship publicly. [All public repos →](https://github.com/FUYOH666?tab=repositories&type=public)
+- Start from constraints: data shape, latency, privacy, evaluation, and integration surface
+- Ship thin vertical slices first, then harden for production
+- Prefer structured outputs, health checks, and observability over demo-only magic
+- Use agentic patterns where they help, but optimize for reliability, grounding, and failure handling
 
-| Repository | What it is |
-|------------|------------|
-| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Multi-channel agents, catalog/media ingestion, RAG-style grounding, multi-tenant ops hooks |
-| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Local-first call analytics: recordings → transcription → structured scoring & reporting |
-| [deer-flow](https://github.com/FUYOH666/deer-flow) | Long-running agent harness (research / coding / creative)—fork tuned for local inference & languages |
-| [DT-xml](https://github.com/FUYOH666/DT-xml) | Semantic search over regulated trade-declaration-style data (EAEU-oriented tooling) |
-| [linux-defender](https://github.com/FUYOH666/linux-defender) | Unified Linux security hygiene CLI (audit, scheduling, notifications) |
-| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agent stack: streaming speech in/out, dialog control |
+## Open to
 
-*Tip:* pin these six on your GitHub profile (**Customize your pins**) so they match this list.
-
----
-
-## Private & client work
-
-Substantial **production** and **client** work lives in **private repositories** or on-prem—no public names, code, or deployment details.
-
-Typical **private** contours (abstract):
-
-- **Regulated document flows** — logistics / trade: unstructured packages → structured extraction → retrieval-assisted classification → **schema-bound** outputs (e.g. XSD-shaped XML) with confidence and checks  
-- **Marketplace operations** — API-backed analytics, reconciliation-style reporting, assistant/chat over seller data  
-- **Speech** — ASR-oriented services and bots (voice in, structured or normalized text out)  
-- **Inference & search infra** — embedding + reranking **microservices**, local or **controlled** LLM serving setups  
-- **Agents & glue** — unified agent experiments, internal tooling, web properties  
-
-Deeper stack, prompts, and architecture: **hiring discussions** or **NDA** for commercial work.
-
----
-
-## Local R&D
-
-Beyond GitHub, I keep **active product and research lines locally** (orchestration, retrieval, voice, domain-specific calculators). Stable pieces surface as public repos when they are safe to share.
-
----
-
-## Engineering principles
-
-**Stack posture:** Python-first services, **FastAPI** where it fits, **containers**, **vector / hybrid search**, **structured outputs** and **schema checks** when stakes are high, **local or controlled inference** when data must stay in your boundary.
-
-**Languages:** **Russian, English, Thai** professionally; **Chinese, Spanish** in client contexts.
-
----
+- High-signal applied AI / product engineering roles
+- Early-stage teams that need a strong builder across product and infrastructure
+- Focused partnerships around document AI, voice systems, retrieval, and private deployment
 
 ## Contact
 
-**Email:** iamfuyoh@gmail.com  
-**Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)  
-**LinkedIn:** [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov)  
-**Portfolio:** [scanovich.ai](https://scanovich.ai)
-
-**Project fit:** send a short note on data shape, latency, residency, and channels—I’ll reply with whether it fits and a realistic timeline.
-
-*Bangkok, Thailand · clients globally.*
+- Email: iamfuyoh@gmail.com
+- Telegram: [@ScanovichAI](https://t.me/ScanovichAI)
+- LinkedIn: [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov)
+- Portfolio: [scanovich.ai](https://scanovich.ai)
+- If you're reaching out, include the role or use case, data shape, latency requirements, privacy constraints, and deployment expectations.
