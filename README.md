@@ -1,59 +1,102 @@
 # Aleksandr Mordvinov
 
-**Production AI systems** — document intelligence, voice pipelines, retrieval-grounded applications, and agentic workflows built for operational environments.
+> Production AI for environments where data is imperfect, stakes are operational, and deployment must remain under control.
 
-Practice spans product architecture and infrastructure: Python/FastAPI services, LLM/RAG stacks, ASR/TTS pipelines, multi-channel agents, and local-first or controlled deployment when privacy, latency, or data residency are non-negotiable. Delivery concentrates on high-friction operational data — degraded scans, call recordings, internal knowledge bases, and multi-step business processes in regulated or operations-heavy settings.
+[scanovich.ai](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov) · [Telegram](https://t.me/ScanovichAI)
 
-## Focus
+---
 
-- Document intelligence for regulated and operations-heavy workflows
-- Voice AI, call analytics, and speech interfaces
-- Retrieval-grounded systems with structured outputs
-- Private / on-prem AI stacks: serving, embeddings, reranking, and observability
+## The work
 
-## Representative delivery
+Systems at the intersection of product architecture and inference infrastructure — built for document-heavy processes, voice operations, grounded retrieval, and agentic workflows that must survive production, not merely demo well.
 
-- **Healthcare / clinical imaging** — diagnostic support and structured reporting in regulated medical workflows
-- **Logistics / regulated paperwork** — extraction, retrieval, assisted classification, and schema-bound outputs for document-heavy workflows (including degraded scans and handwritten fields)
-- **Call-center QA and operations** — local-first transcription, scoring, and reporting pipelines
-- **Long-cycle sales** — multilingual, multi-channel agents with grounding, routing, and human handoff
-- **Private AI infrastructure** — deployable inference, embedding/reranking services, and production-minded system design
+Typical inputs: degraded scans, handwritten fields, call recordings, internal knowledge bases, and multi-step business processes in regulated or operations-intensive settings. Typical constraints: privacy, latency, data residency, auditability, and integration with existing operator workflows.
 
-## Selected public work
+**Stack footprint:** Python · FastAPI · LangGraph · PostgreSQL · Redis · LLM/RAG (vLLM, llama.cpp, OpenAI-compatible APIs) · Whisper-class ASR/TTS · Qdrant · BGE embeddings & reranking · Docker · Linux · Apple Silicon
 
-| Repository | What it demonstrates |
-|------------|----------------------|
-| [Scanovich.ai-MRI_radiology_assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | Clinical imaging workflows: diagnostic support and structured reporting in regulated healthcare contexts |
-| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline, cross-platform voice-to-text with support for local ASR workflows |
-| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Local-first call analytics: recordings → transcription → structured scoring and reporting |
-| [Services-BGE](https://github.com/FUYOH666/Services-BGE) | Embedding and reranking microservices for retrieval and hybrid search |
-| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Multi-channel AI agents with grounding, tenant isolation, and operational hooks |
-| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agent stack with streaming speech in/out and dialog control |
-| [linux-defender](https://github.com/FUYOH666/linux-defender) | Security-aware Linux operations tooling: audit, scheduling, and monitoring |
+---
 
-More public repos: [github.com/FUYOH666?tab=repositories&type=public](https://github.com/FUYOH666?tab=repositories&type=public)
+## Four pillars
 
-## Additional delivery
+| | |
+|---|---|
+| **Documents** | Extraction, classification, retrieval, schema-bound outputs — from noisy scans to declaration-ready fields |
+| **Voice** | Transcription, analytics, streaming speech interfaces, local-first pipelines when recordings cannot leave premise |
+| **Retrieval** | Hybrid search, dense/sparse embeddings, reranking, evaluation hooks, observability over the full RAG path |
+| **Agents** | Multi-channel orchestration, grounding, routing, tenant isolation, human handoff at defined escalation points |
 
-A substantial share of production work remains in private repositories or on-prem deployments. Recurring themes include regulated document workflows, marketplace analytics and operator tooling, speech services, controlled inference and retrieval infrastructure, and internal agent orchestration.
+---
 
-## Operating principles
+## Domains
 
-- Begin from constraints: data shape, latency, privacy, evaluation, and integration surface
-- Ship thin vertical slices first; harden for production second
-- Favor structured outputs, health checks, and observability over prototype-grade demos
-- Apply agentic patterns where they earn their complexity — with grounding, reliability, and explicit failure handling
+**Healthcare & clinical imaging**  
+Diagnostic support and structured reporting in regulated medical workflows.
+
+**Logistics, customs & compliance**  
+Document intelligence for transport paperwork, declarations, and classification-oriented pipelines — including CMR-class inputs, degraded capture, and handwritten Russian fields.
+
+**Call-center & operations**  
+Local-first transcription, QA scoring, and reporting from operational voice data.
+
+**Long-cycle revenue**  
+Multilingual sales agents across messengers and voice — grounded, routed, with explicit human takeover.
+
+**Private AI infrastructure**  
+Deployable inference, embedding and reranking services, security-aware platform operations.
+
+Beyond public repositories, delivery continues in private and on-prem contexts: marketplace analytics, customs/EAEU document pipelines, speech services, controlled retrieval stacks, and internal agent orchestration.
+
+---
+
+## Public work
+
+### Documents, retrieval & agents
+
+| Repository | Demonstrates |
+|------------|--------------|
+| [Scanovich.ai-MRI_radiology_assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | Clinical imaging workflows — diagnostic support and structured reporting |
+| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Enterprise agents across channels — grounding, tenant isolation, operational hooks |
+| [Services-BGE](https://github.com/FUYOH666/Services-BGE) | Embedding and reranking microservices for hybrid retrieval |
+
+### Voice & conversation
+
+| Repository | Demonstrates |
+|------------|--------------|
+| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline, cross-platform ASR — privacy-first, local execution paths |
+| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Call analytics pipeline — recordings → transcription → structured scoring |
+| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agents — streaming speech in/out, dialog control |
+
+### Platform & operations
+
+| Repository | Demonstrates |
+|------------|--------------|
+| [linux-defender](https://github.com/FUYOH666/linux-defender) | Security-aware Linux operations — audit, scheduling, monitoring |
+
+[Full public repository list →](https://github.com/FUYOH666?tab=repositories&type=public)
+
+---
+
+## Operating doctrine
+
+1. **Constraints first** — data shape, latency, privacy, evaluation criteria, and integration surface define the architecture.
+2. **Vertical slices, then hardening** — ship end-to-end paths early; production discipline follows proof of value.
+3. **Structure over spectacle** — schema-bound outputs, health checks, and observability preferred over prototype-grade demos.
+4. **Agents on merit** — orchestration where complexity is earned; grounding, reliability, and explicit failure modes throughout.
+
+---
 
 ## Engagement
 
-- Select applied AI and product-engineering mandates with clear operational stakes
-- Early-stage teams requiring end-to-end ownership across product surface and inference infrastructure
-- Focused collaborations in document AI, voice systems, retrieval, and private or on-prem deployment
+Collaboration fits mandates with clear operational stakes — end-to-end ownership across product surface and inference layer, or focused work in document AI, voice systems, retrieval, and private or on-prem deployment.
+
+Early-stage teams and operators in regulated or data-sensitive environments are a natural fit.
+
+---
 
 ## Contact
 
-- Email: iamfuyoh@gmail.com
-- Telegram: [@ScanovichAI](https://t.me/ScanovichAI)
-- LinkedIn: [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov)
-- Portfolio: [scanovich.ai](https://scanovich.ai)
-- For a useful first conversation, include the use case, data characteristics, latency and privacy requirements, and expected deployment model.
+**Email:** iamfuyoh@gmail.com  
+**Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)  
+**Portfolio:** [scanovich.ai](https://scanovich.ai)
+
+For a substantive first conversation: use case, data characteristics, latency and privacy requirements, expected deployment model.
