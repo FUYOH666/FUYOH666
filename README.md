@@ -4,6 +4,10 @@
 
 [scanovich.ai](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov) · [Telegram](https://t.me/ScanovichAI)
 
+**Featured:** [attestrwa](https://github.com/FUYOH666/attestrwa) · [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) · [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform)
+
+*(Pin the same three on your GitHub profile → Customize your pins.)*
+
 ---
 
 ## The work
@@ -65,6 +69,12 @@ Beyond public repositories, delivery continues in private and on-prem contexts: 
 | [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline, cross-platform ASR — privacy-first, local execution paths |
 | [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Call analytics pipeline — recordings → transcription → structured scoring |
 | [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agents — streaming speech in/out, dialog control |
+
+### Settlement attestation (RWA)
+
+| Repository | Demonstrates |
+|------------|--------------|
+| [attestrwa](https://github.com/FUYOH666/attestrwa) | EAS settlement attestations + programmable escrow for RWA stablecoin releases (SEA Blockchain Week 2026) |
 
 ### Platform & operations
 
