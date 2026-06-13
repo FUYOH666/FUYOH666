@@ -1,132 +1,182 @@
 # Aleksandr Mordvinov
 
-> Production AI for live commercial operations — where data is imperfect, stakes are operational, and someone must sign off before action is taken.
+**Founder & Applied AI Architect** · [Scanovich](https://scanovich.ai)
 
-Founder & Applied AI Architect · [Scanovich](https://scanovich.ai)
+Production-grade AI infrastructure for sensitive business workflows — systems where data quality is imperfect, decisions are expensive, and trust is designed into the architecture.
 
-[scanovich.ai](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov) · [Telegram](https://t.me/ScanovichAI)
+Work spans:
 
-**Pinned (Singapore 2026):** [attestrwa](https://github.com/FUYOH666/attestrwa) · [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) · [conductgene-swarm](https://github.com/FUYOH666/conductgene-swarm)
+* document intelligence
+* voice and call operations
+* retrieval-grounded applications
+* governed multi-agent workflows
+* local and private AI infrastructure
+* compliance-aware automation
+* forensic and audit-ready systems
 
-*(Pin the same three on your GitHub profile → Customize your pins.)*
+Primary objective: **risk reduction** — data privacy, operational accuracy, compliance exposure, decision quality, and human sign-off when AI runs in production.
 
----
-
-## The work
-
-Practice spans product architecture and inference infrastructure — document intelligence, voice and conduct operations, retrieval-grounded applications, and governed multi-agent workflows.
-
-Typical inputs: degraded scans, handwritten fields, call transcripts, supplier records, and internal knowledge bases in regulated or operations-intensive settings. Typical constraints: privacy, latency, data residency, auditability, supervisor sign-off, and integration with existing operator workflows.
-
-Delivery concentrates on systems that must survive production — structured outputs, health checks, evaluation, and explicit failure modes — not prototype-grade demos.
-
-**Stack footprint:** Python · FastAPI · LangGraph · PostgreSQL · Redis · LLM/RAG (vLLM, llama.cpp, OpenAI-compatible APIs) · Whisper-class ASR/TTS · Qdrant · BGE embeddings & reranking · Docker · Linux · Apple Silicon
+[Website](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Telegram](https://t.me/ScanovichAI)
 
 ---
 
-## Four pillars
+## Current research and build lane
 
-| | |
-|---|---|
-| **Documents** | Extraction, classification, retrieval, schema-bound outputs — from noisy scans to declaration-ready fields |
-| **Voice** | Transcription, analytics, conduct QA, streaming speech — local-first when recordings cannot leave premise |
-| **Retrieval** | Hybrid search, dense/sparse embeddings, reranking, evaluation hooks, observability over the full RAG path |
-| **Agents** | Multi-channel orchestration, grounding, routing, tenant isolation, human handoff and supervisor approval at defined escalation points |
+Public research explores one question from multiple domains:
 
----
+**How can AI systems operate safely around valuable data, sensitive workflows, and high-risk decisions?**
 
-## Domains
+Representative directions:
 
-**Cross-border trade & compliance**  
-Explainable document pipelines for transport paperwork, declarations, HS/TN VED classification, supplier normalization, and customs-oriented workflows — including CMR-class inputs, degraded capture, and handwritten fields.
+* agents that cannot publish unsupported claims
+* retrieval systems with evidence-bound outputs
+* supervisor-approved policy memory
+* local-first call analytics
+* audit trails and rollback for learned behavior
+* private inference and retrieval infrastructure
+* structured outputs for operational workflows
 
-**Voice & conduct operations**  
-Local-first call analytics, QA scoring, and supervisor-governed conduct review — evidence-grounded citations, policy memory, audit trails, and rollback where regulation applies.
+Domains differ; the underlying layer is consistent:
 
-**Settlement & attestation**  
-Programmable compliance bridge for asset releases — on-chain attestations, escrow, and auditable settlement paths for tokenized real-world assets.
-
-**Healthcare & clinical imaging**  
-Diagnostic support and structured reporting in regulated medical workflows.
-
-**Long-cycle revenue**  
-Multilingual sales agents across messengers and voice — grounded, routed, with explicit human takeover.
-
-**Private AI infrastructure**  
-Deployable inference, embedding and reranking services, security-aware platform operations.
-
-Beyond public repositories, delivery continues in private and on-prem contexts: marketplace analytics, customs/EAEU document pipelines, speech services, controlled retrieval stacks, and internal agent orchestration.
+**AI should not only be capable. It should be governable, observable, and accountable.**
 
 ---
 
-## Flagship surfaces (2026)
+## Flagship projects
 
-| Surface | Repository | Context |
-|---------|------------|---------|
-| **RWA settlement attestation** | [attestrwa](https://github.com/FUYOH666/attestrwa) | EAS attestations + programmable escrow for stablecoin releases · SEA Blockchain Week 2026 |
-| **Call analytics (local-first)** | [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | Recordings → transcription → structured scoring · on-prem deployment paths |
-| **Governed conduct QA** | [conductgene-swarm](https://github.com/FUYOH666/conductgene-swarm) | Multi-agent review, Policy Genes, supervisor approval, held-out eval · UCWS Singapore 2026 |
+| Project | Focus | Repository |
+| --- | --- | --- |
+| **EvidenceGene Court** | Autonomous DFIR with read-only MCP tools, adversarial review, fail-closed evidence gates, red-team harness, ablation, local model execution | [evidencegene-court](https://github.com/FUYOH666/evidencegene-court) |
+| **ConductGene Swarm** | Governed conduct QA: Prosecutor / Defender / Arbiter, Policy Genes, supervisor approval, audit export, Qdrant retrieval, live simulation | [conductgene-swarm](https://github.com/FUYOH666/conductgene-swarm) |
+| **AttestRWA** | Settlement attestation and programmable escrow for real-world asset workflows | [attestrwa](https://github.com/FUYOH666/attestrwa) |
+| **Scanovich Audio Call** | Local-first call analytics: recordings → transcription → structured scoring → operational review | [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) |
+
+Recommended profile pins:
+
+`evidencegene-court` · `conductgene-swarm` · `attestrwa` · `Scanovich.ai-audio-call`
 
 ---
 
-## Public work
+## Main domains
 
-### Cross-border trade, documents & agents
+### Private AI infrastructure
+
+Local and private AI for sensitive data, internal knowledge bases, call recordings, operational documents, and regulated workflows.
+
+Typical constraints: privacy, latency, data residency, auditability, model control, cost control, supervisor sign-off, integration with operator systems.
+
+### Document intelligence
+
+Extraction, classification, retrieval, and schema-bound outputs for noisy real-world documents — transport paperwork, customs-oriented inputs, supplier records, degraded scans, handwritten fields, declaration-ready structured outputs.
+
+### Voice and conduct operations
+
+Speech-to-text, call analytics, QA scoring, and supervisor-governed review. Operational value: summaries, entities, risks, scores, policy references, and escalation signals — not transcription alone.
+
+### Governed agents
+
+Multi-agent systems where autonomy is bounded by evidence, tools, approval paths, and audit logs.
+
+Design patterns in active use: adversarial review, citation-bound decisions, abstain paths, human approval, rollback, deterministic baselines, red-team and ablation testing.
+
+### Security and DFIR
+
+Autonomous forensic workflows with the model treated as untrusted by default — read-only tools, evidence re-derivation, tamper-evident logs, fail-closed publication gates for incident findings.
+
+### Cross-border trade and marketplace operations
+
+Document and intelligence systems for cross-border commerce, logistics, marketplace analytics, classification support, supplier normalization, and operational workflows.
+
+### Settlement and attestation
+
+Auditable release paths for real-world asset and settlement workflows — attestations, escrow logic, structured compliance evidence.
+
+---
+
+## Selected public repositories
+
+### Governed agents and AI safety
 
 | Repository | Demonstrates |
-|------------|--------------|
-| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Enterprise agents across channels — grounding, tenant isolation, operational hooks |
-| [Scanovich.ai-MRI_radiology_assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | Clinical imaging workflows — diagnostic support and structured reporting |
-| [Services-BGE](https://github.com/FUYOH666/Services-BGE) | Embedding and reranking microservices for hybrid retrieval |
+| --- | --- |
+| [evidencegene-court](https://github.com/FUYOH666/evidencegene-court) | Autonomous DFIR court, read-only MCP, fail-closed validation, red-team harness, local execution |
+| [conductgene-swarm](https://github.com/FUYOH666/conductgene-swarm) | Conduct QA, Policy Genes, supervisor-approved learning, audit trails, Qdrant retrieval, benchmark path |
 
-### Voice, conversation & conduct
-
-| Repository | Demonstrates |
-|------------|--------------|
-| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | End-to-end call analytics — shared pipeline, pilot-ready API/UI, saved-result history |
-| [conductgene-swarm](https://github.com/FUYOH666/conductgene-swarm) | Prosecutor / Defender / Arbiter swarm · supervisor-approved Policy Genes · audit export · synthetic eval suite |
-| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline, cross-platform ASR — privacy-first, local execution paths |
-| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agents — streaming speech in/out, dialog control |
-
-### Settlement attestation (RWA)
+### Voice and call intelligence
 
 | Repository | Demonstrates |
-|------------|--------------|
-| [attestrwa](https://github.com/FUYOH666/attestrwa) | EAS settlement attestations + programmable escrow for RWA stablecoin releases |
+| --- | --- |
+| [Scanovich.ai-audio-call](https://github.com/FUYOH666/Scanovich.ai-audio-call) | End-to-end call analytics, structured scoring, saved results, pilot-ready API/UI |
+| [VoiceToText](https://github.com/FUYOH666/VoiceToText) | Offline ASR, privacy-first speech processing |
+| [ai-agent-tts](https://github.com/FUYOH666/ai-agent-tts) | Low-latency voice agents, streaming speech workflows |
 
-### Platform & operations
+### Retrieval and infrastructure
 
 | Repository | Demonstrates |
-|------------|--------------|
-| [linux-defender](https://github.com/FUYOH666/linux-defender) | Security-aware Linux operations — audit, scheduling, monitoring |
-| [Cleaner-OS](https://github.com/FUYOH666/Cleaner-OS) | ML cache and dependency audit CLI for dev workstations |
+| --- | --- |
+| [Services-BGE](https://github.com/FUYOH666/Services-BGE) | Embedding and reranking services for hybrid retrieval |
+| [linux-defender](https://github.com/FUYOH666/linux-defender) | Security-aware Linux operations, monitoring, audit support |
+| [Cleaner-OS](https://github.com/FUYOH666/Cleaner-OS) | Workstation cleanup, dependency awareness, ML cache hygiene |
 
-[Full public repository list →](https://github.com/FUYOH666?tab=repositories&type=public)
+### Business and settlement systems
+
+| Repository | Demonstrates |
+| --- | --- |
+| [attestrwa](https://github.com/FUYOH666/attestrwa) | EAS attestations, programmable escrow for RWA settlement |
+| [realestate-agent-platform](https://github.com/FUYOH666/realestate-agent-platform) | Multi-channel enterprise agents, grounding, tenant isolation |
+
+### Applied AI prototypes
+
+| Repository | Demonstrates |
+| --- | --- |
+| [Scanovich.ai-MRI_radiology_assistant](https://github.com/FUYOH666/Scanovich.ai-MRI_radiology_assistant) | Clinical imaging support, structured reporting research |
+
+[Full public repository list →](https://github.com/FUYOH666?tab=repositories)
+
+---
+
+## Stack
+
+**Languages and backend:** Python, FastAPI, Node.js, TypeScript  
+**AI systems:** LLMs, RAG, agents, structured outputs, ASR/TTS, local inference  
+**Inference:** vLLM, llama.cpp, Ollama, LM Studio, OpenAI-compatible APIs  
+**Retrieval:** Qdrant, BGE embeddings, reranking, hybrid search  
+**Agents and tools:** MCP, LangGraph-style orchestration, tool-bound workflows  
+**Data and operations:** PostgreSQL, Redis, Docker, Linux, Apple Silicon  
+**Quality layer:** evals, health checks, audit logs, red-team harnesses, ablation tests, deterministic baselines
 
 ---
 
 ## Operating doctrine
 
-1. **Constraints first** — data shape, latency, privacy, evaluation criteria, and integration surface define the architecture.
-2. **Vertical slices, then hardening** — ship end-to-end paths early; production discipline follows proof of value.
-3. **Structure over spectacle** — schema-bound outputs, health checks, and observability preferred over prototype-grade demos.
-4. **Sign-off by design** — supervisor approval, audit trails, and rollback where stakes are operational or regulated.
-5. **Agents on merit** — orchestration where complexity is earned; grounding, reliability, and explicit failure modes throughout.
+1. **Architecture before prompts** — prompts guide behavior; architecture defines boundaries.  
+2. **Evidence before confidence** — high-stakes systems require traceable evidence, not eloquence alone.  
+3. **Human sign-off where it matters** — approval paths, audit trails, and rollback belong in the product.  
+4. **Private by default when data is valuable** — deployment model matters as much as model choice.  
+5. **Determinism as a baseline** — measurable behavior needs stable baselines, tests, and evaluation paths.  
+6. **Vertical slice first, hardening after proof** — end-to-end paths ship early; production discipline follows demonstrated value.
 
 ---
 
-## Engagement
+## Collaboration
 
-Collaboration fits mandates with clear operational stakes — bounded pilots, design partnerships, and selective capital conversations across trade AI, voice conduct QA, and settlement infrastructure.
+Engagements typically align with:
 
-Natural fit: operators, forwarders, compliance teams, voice-heavy ops, infrastructure partners, and early-stage teams in regulated or data-sensitive environments — especially across APAC.
+* private AI infrastructure and enterprise adoption  
+* sensitive data workflows and call intelligence  
+* cross-border trade and marketplace operations  
+* governed agents and AI safety  
+* forensic and incident-response automation  
+* settlement, attestation, and audit-ready systems  
+* design partnerships and selective capital conversations across APAC  
+
+A substantive first conversation usually covers: workflow, data characteristics, risk, current manual process, decision point, deployment constraints, and human approval gate.
 
 ---
 
 ## Contact
 
-**Email:** iamfuyoh@gmail.com  
+**Email:** [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)  
 **Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)  
-**Portfolio:** [scanovich.ai](https://scanovich.ai)
-
-For a substantive first conversation: use case, data characteristics, latency and privacy requirements, expected deployment model.
+**Website:** [scanovich.ai](https://scanovich.ai)  
+**LinkedIn:** [Aleksandr Mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/)
