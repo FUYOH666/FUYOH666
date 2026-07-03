@@ -1,57 +1,50 @@
 # Aleksandr Mordvinov
 
-**Founder & Applied AI Architect** · [Scanovich](https://scanovich.ai)
+**Applied AI architect** · proprietary systems for operations where someone must sign off
 
-Production-grade AI infrastructure for sensitive business workflows — systems where data quality is imperfect, decisions are expensive, and trust is designed into the architecture.
+[Scanovich](https://scanovich.ai) builds AI that turns messy operational data into **review-ready decisions** — customs prep, marketplace economics, call QA, and governed workflows. Implementations are proprietary; engagement starts with outcomes, not source code.
 
-Primary objective: **risk reduction** — data privacy, operational accuracy, compliance exposure, decision quality, and human sign-off when AI runs in production.
-
-Work spans document intelligence, voice and call operations, retrieval-grounded applications, governed multi-agent workflows, private AI infrastructure, compliance-aware automation, and forensic / audit-ready systems.
+**How much time and rework do messy supplier files, classification prep, or manual call review cost your team each week?**
 
 [Website](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Telegram](https://t.me/ScanovichAI)
 
 ---
 
-## Proof (outcomes, not open source)
+## Solutions (business outcomes)
 
-Implementations are **private**. Public proof is outcome-oriented:
-
-| System | What it demonstrates | Proof |
+| Solution | What you get | Learn more |
 | --- | --- | --- |
-| **EvidenceGene Court** | Adversarial DFIR, read-only MCP, fail-closed gates, red-team 6/6, ablation, jury of models | [Demo video](https://youtu.be/HerCqv_LA3Q) |
-| **ConductGene Swarm** | Governed conduct QA, Policy Genes, supervisor approval, audit export | [scanovich.ai/conductgene/](https://scanovich.ai/conductgene/) |
-| **AttestRWA** | Settlement attestation, programmable escrow (UCWS origin) | Architecture review on request |
-| **Scanovich Audio Call** | Local-first call analytics, structured scoring, operational review | [scanovich.ai](https://scanovich.ai) |
+| **Customs / TN VED intelligence** | Cut declaration prep from **days to hours**; explainable HS codes your reviewer can defend | [scanovich.ai/customs](https://scanovich.ai/customs) |
+| **Marketplace unit economics** | SKU-level profit after fees, logistics, and ads — not cabinet averages | [app.scanovich.ai](https://app.scanovich.ai) |
+| **Call operations QA** | Score and review calls **locally** — full coverage without sending audio to third parties | [Brief via scanovich.ai](https://scanovich.ai) |
+| **Governed conduct QA** | Stop repeating the same QA corrections — supervisor-approved playbooks that audit | [scanovich.ai/conductgene/](https://scanovich.ai/conductgene/) |
+| **Settlement attestation** | Auditable release paths for RWA / settlement workflows | Architecture brief on request |
+
+*ROI figures are order-of-magnitude from pilot-style workflows; scoped pilots validate on your data under NDA.*
 
 ---
 
-## Engagement
+## How engagements work
 
-Architecture reviews, pilots, and implementation are scoped through a **written client brief** first (async; no call required for initial fit).
+1. **Written brief** — industry, data sensitivity, current manual process, desired outcome (async; no call required for first fit).
+2. **Scoped pilot** — thin vertical slice on your constraints; measurable before/after.
+3. **NDA** — architecture access and proprietary implementation where the pilot warrants it.
 
-Code, detailed architecture, and private demos are available under **NDA or paid engagement** — not as public repositories.
-
-A useful first message: industry, data sensitivity, current manual process, desired outcome, deployment constraints (on-prem / private / cloud), and human approval gate.
-
----
-
-## Stack
-
-**Backend:** Python, FastAPI, TypeScript  
-**AI:** LLMs, RAG, agents, structured outputs, ASR/TTS, local inference  
-**Retrieval:** Qdrant, BGE embeddings, reranking, hybrid search  
-**Agents:** MCP, tool-bound workflows, audit logs, evals, red-team harnesses  
-**Ops:** Docker, Linux, Apple Silicon, health/readiness patterns
+Source code is **not open source**. It is part of proprietary delivery and licensed engagement — not a public repository.
 
 ---
 
-## Operating doctrine
+## Решения (кратко)
 
-1. **Architecture before prompts** — boundaries define what can ship.  
-2. **Evidence before confidence** — traceable proof, not eloquence alone.  
-3. **Human sign-off where it matters** — approval paths and rollback in the product.  
-4. **Private by default when data is valuable** — deployment model matters as much as model choice.  
-5. **Vertical slice first, hardening after proof** — value before polish theater.
+**Scanovich** — прикладной ИИ для **таможни / ВЭД**, **маркетплейсов** и операционных процессов, где решение должен **защитить человек, подписывающий документ**.
+
+- **ТН ВЭД / декларации:** меньше ручной подготовки, объяснимая классификация для проверки.
+- **Маркетплейсы:** экономика по SKU, а не «средняя маржа в кабинете».
+- **Звонки и QA:** локальная аналитика без утечки записей.
+
+Пилоты — по согласованному scope, под NDA. Исходный код не публикуется.
+
+[scanovich.ai](https://scanovich.ai) · [Telegram @ScanovichAI](https://t.me/ScanovichAI)
 
 ---
 
@@ -59,5 +52,4 @@ A useful first message: industry, data sensitivity, current manual process, desi
 
 **Email:** [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)  
 **Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)  
-**Website:** [scanovich.ai](https://scanovich.ai)  
-**LinkedIn:** [Aleksandr Mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/)
+**Website:** [scanovich.ai](https://scanovich.ai)
