@@ -2,15 +2,13 @@
 
 **Principal · [Scanovich](https://scanovich.ai)** — a private document-intelligence practice
 
-**Documents that carry liability deserve a private practice — not a vendor.**
+**Private document intelligence for files that carry liability.**
 
-Scanovich deploys a **proprietary engine** under NDA inside the client's boundary — messy operational paperwork → **explainable, defensible decisions**. Built for **principals and their offices**: family holdings, multi-entity groups, and operators where a signed document becomes personal exposure.
+For operators, principals and compliance-heavy teams — explainable, auditable outputs with human sign-off. One governed engine under NDA in your boundary.
 
-One governed loop: **ingest → normalize → precedent → explainable output → human sign-off → private deploy.**  
-Live proof today: **cross-border trade** · **marketplace economics** · **multi-entity group ops**.  
-The same architecture extends to **legal review prep**, **mining & permit dossiers**, and **real-asset documentation** — **one scoped module at a time**, after qualification.
+Live proof: **cross-border trade** · **marketplace economics** · adjacent modules (legal, permitting, group ops) — honest **Live / By introduction** labels on [scanovich.ai](https://scanovich.ai).
 
-[Request access](https://scanovich.ai/#contact) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Telegram](https://t.me/ScanovichAI) · [private@scanovich.ai](mailto:private@scanovich.ai)
+[Request private scoping review](https://scanovich.ai/#contact) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Telegram](https://t.me/ScanovichAI) · [private@scanovich.ai](mailto:private@scanovich.ai)
 
 ---
 
@@ -18,17 +16,17 @@ The same architecture extends to **legal review prep**, **mining & permit dossie
 
 | Surface | Outcome |
 | --- | --- |
-| **Exhibit A — Trade** | Supplier normalization · explainable HS / TN VED · certification flags → [scanovich.ai/customs](https://scanovich.ai/customs) |
+| **Exhibit A — Trade** | Supplier normalization · explainable HS / TN VED → [scanovich.ai/customs](https://scanovich.ai/customs) |
 | **Exhibit B — Marketplaces** | SKU profit after fees, logistics, ads → [app.scanovich.ai](https://app.scanovich.ai) |
-| **Group / adjacent workflows** | Board packs · KYC · contracts · permits — brief via [scanovich.ai](https://scanovich.ai) |
+| **Group / adjacent** | Board packs · KYC · contracts · permits — scoping via [scanovich.ai/#contact](https://scanovich.ai/#contact) |
 
-*Metrics: pilot pattern on your data under NDA — not marketing percentages.*
+*Metrics: pilot pattern on your data under NDA.*
 
 ---
 
 ## Access
 
-1. **Private briefing** — async; fit confirmed before any call  
+1. **Private scoping review** — async  
 2. **Scoped paid pilot** — redacted samples under NDA  
 3. **Licensed deploy** — engine in your boundary  
 
@@ -38,10 +36,10 @@ Proprietary IP — not open source. This profile is the only public repository.
 
 ## Решения (кратко)
 
-**Scanovich** — частная практика для **принципалов и групп компаний**: документы, за которыми стоит **личная ответственность подписанта**. Система под NDA в контуре клиента.
+**Scanovich** — частная практика для **принципалов и групп компаний**, где документ должен **защитить подписанта**. Система под NDA в контуре клиента.
 
 - **ВЭД / таможня:** [scanovich.ai/customs](https://scanovich.ai/customs)  
 - **Маркетплейсы:** [app.scanovich.ai](https://app.scanovich.ai)  
-- **Legal · недра · недвижимость / dossiers:** по scoped pilot — [scanovich.ai](https://scanovich.ai)  
+- **Legal · недра · недвижимость:** scoping review — [scanovich.ai/#contact](https://scanovich.ai/#contact)  
 
-**Контакт:** [private@scanovich.ai](mailto:private@scanovich.ai) · [@ScanovichAI](https://t.me/ScanovichAI)
+**Контакт:** [private@scanovich.ai](mailto:private@scanovich.ai)
