@@ -1,55 +1,47 @@
 # Aleksandr Mordvinov
 
-**Applied AI architect** · proprietary systems for operations where someone must sign off
+**Principal · [Scanovich](https://scanovich.ai)** — a private document-intelligence practice
 
-[Scanovich](https://scanovich.ai) builds AI that turns messy operational data into **review-ready decisions** — customs prep, marketplace economics, call QA, and governed workflows. Implementations are proprietary; engagement starts with outcomes, not source code.
+**Documents that carry liability deserve a private practice — not a vendor.**
 
-**How much time and rework do messy supplier files, classification prep, or manual call review cost your team each week?**
+Scanovich deploys a **proprietary engine** under NDA inside the client's boundary — messy operational paperwork → **explainable, defensible decisions**. Built for **principals and their offices**: family holdings, multi-entity groups, and operators where a signed document becomes personal exposure.
 
-[Website](https://scanovich.ai) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Telegram](https://t.me/ScanovichAI)
+One governed loop: **ingest → normalize → precedent → explainable output → human sign-off → private deploy.**  
+Live proof today: **cross-border trade** · **marketplace economics** · **multi-entity group ops**.  
+The same architecture extends to **legal review prep**, **mining & permit dossiers**, and **real-asset documentation** — **one scoped module at a time**, after qualification.
 
----
-
-## Solutions (business outcomes)
-
-| Solution | What you get | Learn more |
-| --- | --- | --- |
-| **Customs / TN VED intelligence** | Cut declaration prep from **days to hours**; explainable HS codes your reviewer can defend | [scanovich.ai/customs](https://scanovich.ai/customs) |
-| **Marketplace unit economics** | SKU-level profit after fees, logistics, and ads — not cabinet averages | [app.scanovich.ai](https://app.scanovich.ai) |
-| **Call operations QA** | Score and review calls **locally** — full coverage without sending audio to third parties | [Brief via scanovich.ai](https://scanovich.ai) |
-| **Governed conduct QA** | Stop repeating the same QA corrections — supervisor-approved playbooks that audit | [scanovich.ai/conductgene/](https://scanovich.ai/conductgene/) |
-| **Settlement attestation** | Auditable release paths for RWA / settlement workflows | Architecture brief on request |
-
-*ROI figures are order-of-magnitude from pilot-style workflows; scoped pilots validate on your data under NDA.*
+[Request access](https://scanovich.ai/#contact) · [LinkedIn](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/) · [Telegram](https://t.me/ScanovichAI) · [private@scanovich.ai](mailto:private@scanovich.ai)
 
 ---
 
-## How engagements work
+## Live deployments
 
-1. **Written brief** — industry, data sensitivity, current manual process, desired outcome (async; no call required for first fit).
-2. **Scoped pilot** — thin vertical slice on your constraints; measurable before/after.
-3. **NDA** — architecture access and proprietary implementation where the pilot warrants it.
+| Surface | Outcome |
+| --- | --- |
+| **Exhibit A — Trade** | Supplier normalization · explainable HS / TN VED · certification flags → [scanovich.ai/customs](https://scanovich.ai/customs) |
+| **Exhibit B — Marketplaces** | SKU profit after fees, logistics, ads → [app.scanovich.ai](https://app.scanovich.ai) |
+| **Group / adjacent workflows** | Board packs · KYC · contracts · permits — brief via [scanovich.ai](https://scanovich.ai) |
 
-Source code is **not open source**. It is part of proprietary delivery and licensed engagement — not a public repository.
+*Metrics: pilot pattern on your data under NDA — not marketing percentages.*
+
+---
+
+## Access
+
+1. **Private briefing** — async; fit confirmed before any call  
+2. **Scoped paid pilot** — redacted samples under NDA  
+3. **Licensed deploy** — engine in your boundary  
+
+Proprietary IP — not open source. This profile is the only public repository.
 
 ---
 
 ## Решения (кратко)
 
-**Scanovich** — прикладной ИИ для **таможни / ВЭД**, **маркетплейсов** и операционных процессов, где решение должен **защитить человек, подписывающий документ**.
+**Scanovich** — частная практика для **принципалов и групп компаний**: документы, за которыми стоит **личная ответственность подписанта**. Система под NDA в контуре клиента.
 
-- **ТН ВЭД / декларации:** меньше ручной подготовки, объяснимая классификация для проверки.
-- **Маркетплейсы:** экономика по SKU, а не «средняя маржа в кабинете».
-- **Звонки и QA:** локальная аналитика без утечки записей.
+- **ВЭД / таможня:** [scanovich.ai/customs](https://scanovich.ai/customs)  
+- **Маркетплейсы:** [app.scanovich.ai](https://app.scanovich.ai)  
+- **Legal · недра · недвижимость / dossiers:** по scoped pilot — [scanovich.ai](https://scanovich.ai)  
 
-Пилоты — по согласованному scope, под NDA. Исходный код не публикуется.
-
-[scanovich.ai](https://scanovich.ai) · [Telegram @ScanovichAI](https://t.me/ScanovichAI)
-
----
-
-## Contact
-
-**Email:** [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)  
-**Telegram:** [@ScanovichAI](https://t.me/ScanovichAI)  
-**Website:** [scanovich.ai](https://scanovich.ai)
+**Контакт:** [private@scanovich.ai](mailto:private@scanovich.ai) · [@ScanovichAI](https://t.me/ScanovichAI)
