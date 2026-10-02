@@ -8,6 +8,4 @@ The underlying thesis is simple: a growing share of organizational work will mov
 
 Founder of Scanovich.ai.
 
-Veritas is a private consumer ritual on Telegram, [@Veritaso_bot](https://t.me/Veritaso_bot). One situation, three cards chosen in order. The reading may name another version of that story, and it stays quiet when the facts are too thin to interpret. Opening the rest of the same board is the paid step.
-
 ContentSub is a private publishing line for life on camera. One spoken clip is prepared once and goes to Instagram, YouTube, RedNote and TikTok. The caption is written for that surface, and the subtitles stay with the voice, so the same scene reaches four audiences and remains a short human note.
