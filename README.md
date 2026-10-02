@@ -1,5 +1,4 @@
-bytes 1165
--operated systems for complex, high-value workflows.
+Building AI-operated systems for complex, high-value workflows.
 
 The focus is on turning fragmented documents, decisions and operational processes into structured software systems using models, retrieval, tools, verification and human oversight where it matters.
 
