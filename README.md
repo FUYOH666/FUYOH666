@@ -6,6 +6,3 @@ Current work spans agentic systems, document intelligence, evidence-grounded AI,
 
 The underlying thesis is simple: a growing share of organizational work will move from people operating software to software operating workflows.
 
-Founder of Scanovich.ai.
-
-ContentSub is a private publishing line for life on camera. One spoken clip is prepared once and goes to Instagram, YouTube, RedNote and TikTok. The caption is written for that surface, and the subtitles stay with the voice, so the same scene reaches four audiences and remains a short human note.
