@@ -17,6 +17,7 @@ These repositories are how we think, written down as code.
   [precedent](https://github.com/FUYOH666/precedent).
 - **Publish what we measured, including when we were wrong.**
   - [What precedent's first version got wrong](https://github.com/FUYOH666/precedent/blob/main/docs/what-v1-got-wrong.md)
+  - [precedent's pre-registered benchmark, including the hypothesis that failed](https://github.com/FUYOH666/precedent/tree/main/benchmarks/correction_stream)
   - [negative results in agent-web-lab](https://github.com/FUYOH666/scanovich-agent-web-lab)
   - [the Services-BGE eval harness](https://github.com/FUYOH666/Services-BGE)
 - **Runs on your hardware.** See [VoiceToText](https://github.com/FUYOH666/VoiceToText),
@@ -27,7 +28,7 @@ These repositories are how we think, written down as code.
 
 | the problem | repository | one thing we measured | status |
 |---|---|---|---|
-| Human corrections to an AI judge go live untested | [**precedent**](https://github.com/FUYOH666/precedent) | the keyword rule our v1 learned breaks 3 of 112 verdicts; the gate blocks it, and the rule stating the real reason passes with 0 broken | released |
+| Human corrections to an AI judge go live untested | [**precedent**](https://github.com/FUYOH666/precedent) | in a pre-registered benchmark, rules through the gate broke 0 right answers and corrections pasted in as few-shot examples broke 19; retrieved examples scored higher, and we published that | released |
 | AI forensics that cannot invent a finding | [**evidencegene-court**](https://github.com/FUYOH666/evidencegene-court) | found the documented implant on DFIR Madness Case 001 and rejected a planted fabricated finding, on a laptop with a local model | prototype |
 | Retrieval you can measure before you trust it | [**Services-BGE**](https://github.com/FUYOH666/Services-BGE) | recall@1 0.861 for bge-m3 + Qwen3-Reranker-0.6B on its eval set, with every model swap compared in one table | released |
 | How AI agents read the live web | [**agent-web-lab**](https://github.com/FUYOH666/scanovich-agent-web-lab) | a 4% baseline mention rate in AI search, and lift targets reported as not met | research |
