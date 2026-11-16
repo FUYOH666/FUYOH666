@@ -37,13 +37,17 @@ These repositories are how we think, written down as code.
 
 #### Work with the lab
 
+- **Document cross-check.** We read a company's published documents against each other and show each
+  place where they differ, with the document, the date and the page
+  ([how it works](https://scanovich.ai/projects/document-cross-check/)).
 - **Correction review.** Send a sample of the decisions your reviewers overrode. We show which
   corrections are safe rules and which would have broken something (precedent).
 - **Retrieval evaluation on your documents.** Measure your search or assistant on your own questions
   before you trust it (Services-BGE).
 - **Private inference.** Speech and search that stay on your hardware (VoiceToText, Services-BGE).
 
-→ [scanovich.ai/contact](https://scanovich.ai/contact/?ref=github-profile)
+→ [scanovich.ai/contact](https://scanovich.ai/contact/?ref=github-profile) ·
+[all the ways to work with the lab](https://scanovich.ai/partnerships/)
 
 <sub>Also public: [attestrwa](https://github.com/FUYOH666/attestrwa) ·
 [LocalScript](https://github.com/FUYOH666/LocalScript) ·
